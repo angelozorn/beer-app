@@ -1,0 +1,9 @@
+* UX/UI - swift coding in XCode or some other IDE
+* Database for users and user data - Supabase or something else
+* Get dataset of bottled and canned beers - kaggle and or web scraping
+* train AI camera to recognize bottled and canned beers name, abv, calories etc.
+* location integration - figure out cheapest and best one
+* camera funcionalities on app
+
+
+*** Something to think about - verifying users are over 21 years of age in USA
