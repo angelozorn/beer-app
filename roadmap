@@ -1,0 +1,9 @@
+initial roadmap 061425:
+
+1. Complete v1 of app 
+* the ux/ui component coded in swift on XCode of some other IDE
+* Decide on what database service to use
+* Integrate database service and ux/ui
+* Users able to type in their drinks/beers and the stats compile
+
+2. Complete v2 of app - add AI camera
