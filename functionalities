@@ -1,7 +1,8 @@
 Potential Funcionalities Updated 6/14/25:
 Core functionalities for the app
-* User will be able to take a pic of a bottle or can and the app will recognize the type of beer and add it to their account. The app will track overall
-number of drinks all time and broken down into shorter time periods. It will do the same thing for individual beers.
+* User will be able to take a pic of a bottle or can and the app will recognize the type of beer and add it to their account. 
+* Some functionality where users can tap repeat or +1 to add another beer they already added that day.
+* The app will track overall number of drinks all time and broken down into shorter time periods. It will do the same thing for individual beers.
 * There will be location funcionalities where users can track how many beers they have drank in certain locations: bars, their house, friend's houses.
 * Users can have friends on the app.
 * Leaderboards between friends, cities, countries etc.
