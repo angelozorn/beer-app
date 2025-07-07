@@ -8,6 +8,13 @@ initial roadmap 6/14/25:
 * Users able to add friends
 * Leaderboards across friends
 
+Update 7/6/25
+* when typing in beers have autocomplete/suggested from dataset
+* when a user adds a new beer have the new beer added to the dataset for the next person to use as suggested
+* Add camera so users can take a picture and add it to the database. Have an option for other users to approve or deny the photo added by another user to the database.
+* Organize tabs
+
+
 2. Complete v2 of app - add AI camera
 * Gather dataset
 * Train AI camera
