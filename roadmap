@@ -1,0 +1,28 @@
+initial roadmap 6/14/25:
+
+1. Complete v1 of app 
+* the ux/ui component coded in swift on XCode of some other IDE
+* Decide on what database service to use
+* Integrate database service and ux/ui
+* Users able to type in their drinks/beers and the stats compile
+* Users able to add friends
+* Leaderboards across friends
+
+Update 7/6/25
+* when typing in beers have autocomplete/suggested from dataset
+* when a user adds a new beer have the new beer added to the dataset for the next person to use as suggested
+* Add camera so users can take a picture and add it to the database. Have an option for other users to approve or deny the photo added by another user to the database.
+* Organize tabs
+
+
+2. Complete v2 of app - add AI camera
+* Gather dataset
+* Train AI camera
+* Integrate AI Camera into the app
+
+3. Complete v3 of app - add location services
+* Users see how many beers they have at vertain locations - bars, friend's houses, their home
+* leaderboards for cities, larger areas
+
+4. Complete v4 of app - rating functionalities/social media
+* Users can post pictures with a drink and rate it.
